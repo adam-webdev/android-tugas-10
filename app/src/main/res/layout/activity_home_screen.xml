@@ -97,6 +97,13 @@
             android:backgroundTint="@color/black"
             android:drawableTop="@drawable/ic_baseline_access_alarm_24"
             android:text="Alarm Project" />
+        <Button
+            android:id="@+id/to_map"
+            android:layout_width="395dp"
+            android:layout_height="70dp"
+            android:backgroundTint="@color/black"
+            android:drawableTop="@drawable/ic_baseline_access_alarm_24"
+            android:text="Map Project" />
 
     </LinearLayout>
 
