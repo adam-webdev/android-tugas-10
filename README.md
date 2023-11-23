@@ -1,7 +1,9 @@
-# android-uts-fibbonaci
-tugas uts membuat hitung fibonacci dengan andorid
+## Tugas android Pertemuan 10
 
-#### Berikut output program :
+### Merubah tata letak menu layout dipertemuan9 menjadi grid layout
 
 
-![android](https://github.com/adam-webdev/android-uts-fibbonaci/assets/75572469/2c4f936e-3a56-40db-9613-5276ed3e803c)
+### Berikut hasil program :
+
+https://github.com/adam-webdev/android-tugas-10/assets/75572469/11354cdd-6f66-481c-bbb4-01d37d5dac68
+
